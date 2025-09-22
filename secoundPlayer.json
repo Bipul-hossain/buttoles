@@ -13,7 +13,7 @@
     "team": "Al Nassr",
     "position": "Forward",
     "price": 45000000,
-    "image": "https://imageio.forbes.com/specials-images/imageserve/5f5be112e7f395dc08ef8e58/Lionel-Messi-celebrating-scoring-a-goal-in-the-2019-20-UEFA-Champions-League/1960x0.jpg?format=jpg&width=960"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Cristiano_Ronaldo_playing_for_Al_Nassr_FC_against_Persepolis%2C_September_2023_%28cropped%29.jpg"
   },
   {
     "id": 3,
@@ -21,7 +21,7 @@
     "team": "Al Hilal",
     "position": "Forward",
     "price": 40000000,
-    "image": "https://imageio.forbes.com/specials-images/imageserve/5f5be112e7f395dc08ef8e58/Lionel-Messi-celebrating-scoring-a-goal-in-the-2019-20-UEFA-Champions-League/1960x0.jpg?format=jpg&width=960"
+    "image": "https://media.gettyimages.com/id/2030970037/photo/riyadh-saudi-arabia-aleksandar-mitrovic-of-al-hilal-celebrates-scoring-his-teams-third-goal.jpg?s=612x612&w=gi&k=20&c=D6Spbv6sgGs4QwQe2MpI3DewOClp8aBjAzcM0SAb5FQ="
   },
   {
     "id": 4,
@@ -29,7 +29,7 @@
     "team": "PSG",
     "position": "Forward",
     "price": 60000000,
-    "image": "https://imageio.forbes.com/specials-images/imageserve/5f5be112e7f395dc08ef8e58/Lionel-Messi-celebrating-scoring-a-goal-in-the-2019-20-UEFA-Champions-League/1960x0.jpg?format=jpg&width=960"
+    "image": "https://cdn.britannica.com/39/239139-050-49A950D1/French-soccer-player-Kylian-Mbappe-FIFA-World-Cup-December-10-2022.jpg"
   },
   {
     "id": 5,
@@ -37,7 +37,7 @@
     "team": "Manchester City",
     "position": "Midfielder",
     "price": 35000000,
-    "image": "https://imageio.forbes.com/specials-images/imageserve/5f5be112e7f395dc08ef8e58/Lionel-Messi-celebrating-scoring-a-goal-in-the-2019-20-UEFA-Champions-League/1960x0.jpg?format=jpg&width=960"
+    "image": "https://static.independent.co.uk/2022/10/23/19/1435606233.jpg"
   },
   {
     "id": 6,
@@ -45,7 +45,7 @@
     "team": "Liverpool",
     "position": "Forward",
     "price": 30000000,
-    "image": "https://imageio.forbes.com/specials-images/imageserve/5f5be112e7f395dc08ef8e58/Lionel-Messi-celebrating-scoring-a-goal-in-the-2019-20-UEFA-Champions-League/1960x0.jpg?format=jpg&width=960"
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1ah8K24Ut39NPateObyY2ipq6cRijhY8LDA&s"
   },
   {
     "id": 7,
@@ -53,7 +53,7 @@
     "team": "Barcelona",
     "position": "Striker",
     "price": 28000000,
-    "image": "https://imageio.forbes.com/specials-images/imageserve/5f5be112e7f395dc08ef8e58/Lionel-Messi-celebrating-scoring-a-goal-in-the-2019-20-UEFA-Champions-League/1960x0.jpg?format=jpg&width=960"
+    "image": "https://e0.365dm.com/22/03/2048x1152/skysports-robert-lewandowski_5699438.jpg?20220718160452"
   },
   {
     "id": 8,
@@ -61,7 +61,7 @@
     "team": "Liverpool",
     "position": "Defender",
     "price": 25000000,
-    "image": "https://imageio.forbes.com/specials-images/imageserve/5f5be112e7f395dc08ef8e58/Lionel-Messi-celebrating-scoring-a-goal-in-the-2019-20-UEFA-Champions-League/1960x0.jpg?format=jpg&width=960"
+    "image": "https://e2.365dm.com/18/05/800x600/skysports-virgil-van-dijk-liverpool_4320580.jpg?20180526075523"
   },
   {
     "id": 9,
@@ -69,7 +69,7 @@
     "team": "Manchester City",
     "position": "Striker",
     "price": 70000000,
-    "image": "https://imageio.forbes.com/specials-images/imageserve/5f5be112e7f395dc08ef8e58/Lionel-Messi-celebrating-scoring-a-goal-in-the-2019-20-UEFA-Champions-League/1960x0.jpg?format=jpg&width=960"
+    "image": "https://www.sportphotogallery.com/content/images/cmsfiles/product/48841/50000-list.jpg"
   },
   {
     "id": 10,
@@ -77,6 +77,6 @@
     "team": "Real Madrid",
     "position": "Midfielder",
     "price": 20000000,
-    "image": "https://imageio.forbes.com/specials-images/imageserve/5f5be112e7f395dc08ef8e58/Lionel-Messi-celebrating-scoring-a-goal-in-the-2019-20-UEFA-Champions-League/1960x0.jpg?format=jpg&width=960"
+    "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/6591/live/16022710-4435-11ef-9637-e9ed735f645f.jpg"
   }
 ]
