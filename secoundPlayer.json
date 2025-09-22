@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Lionel Messi",
+    "team": "Inter Miami",
+    "position": "Forward",
+    "price": 50000000,
+    "image": "https://imageio.forbes.com/specials-images/imageserve/5f5be112e7f395dc08ef8e58/Lionel-Messi-celebrating-scoring-a-goal-in-the-2019-20-UEFA-Champions-League/1960x0.jpg?format=jpg&width=960"
+  },
+  {
+    "id": 2,
+    "name": "Cristiano Ronaldo",
+    "team": "Al Nassr",
+    "position": "Forward",
+    "price": 45000000,
+    "image": "https://imageio.forbes.com/specials-images/imageserve/5f5be112e7f395dc08ef8e58/Lionel-Messi-celebrating-scoring-a-goal-in-the-2019-20-UEFA-Champions-League/1960x0.jpg?format=jpg&width=960"
+  },
+  {
+    "id": 3,
+    "name": "Neymar Jr",
+    "team": "Al Hilal",
+    "position": "Forward",
+    "price": 40000000,
+    "image": "https://imageio.forbes.com/specials-images/imageserve/5f5be112e7f395dc08ef8e58/Lionel-Messi-celebrating-scoring-a-goal-in-the-2019-20-UEFA-Champions-League/1960x0.jpg?format=jpg&width=960"
+  },
+  {
+    "id": 4,
+    "name": "Kylian Mbappé",
+    "team": "PSG",
+    "position": "Forward",
+    "price": 60000000,
+    "image": "https://imageio.forbes.com/specials-images/imageserve/5f5be112e7f395dc08ef8e58/Lionel-Messi-celebrating-scoring-a-goal-in-the-2019-20-UEFA-Champions-League/1960x0.jpg?format=jpg&width=960"
+  },
+  {
+    "id": 5,
+    "name": "Kevin De Bruyne",
+    "team": "Manchester City",
+    "position": "Midfielder",
+    "price": 35000000,
+    "image": "https://imageio.forbes.com/specials-images/imageserve/5f5be112e7f395dc08ef8e58/Lionel-Messi-celebrating-scoring-a-goal-in-the-2019-20-UEFA-Champions-League/1960x0.jpg?format=jpg&width=960"
+  },
+  {
+    "id": 6,
+    "name": "Mohamed Salah",
+    "team": "Liverpool",
+    "position": "Forward",
+    "price": 30000000,
+    "image": "https://imageio.forbes.com/specials-images/imageserve/5f5be112e7f395dc08ef8e58/Lionel-Messi-celebrating-scoring-a-goal-in-the-2019-20-UEFA-Champions-League/1960x0.jpg?format=jpg&width=960"
+  },
+  {
+    "id": 7,
+    "name": "Robert Lewandowski",
+    "team": "Barcelona",
+    "position": "Striker",
+    "price": 28000000,
+    "image": "https://imageio.forbes.com/specials-images/imageserve/5f5be112e7f395dc08ef8e58/Lionel-Messi-celebrating-scoring-a-goal-in-the-2019-20-UEFA-Champions-League/1960x0.jpg?format=jpg&width=960"
+  },
+  {
+    "id": 8,
+    "name": "Virgil van Dijk",
+    "team": "Liverpool",
+    "position": "Defender",
+    "price": 25000000,
+    "image": "https://imageio.forbes.com/specials-images/imageserve/5f5be112e7f395dc08ef8e58/Lionel-Messi-celebrating-scoring-a-goal-in-the-2019-20-UEFA-Champions-League/1960x0.jpg?format=jpg&width=960"
+  },
+  {
+    "id": 9,
+    "name": "Erling Haaland",
+    "team": "Manchester City",
+    "position": "Striker",
+    "price": 70000000,
+    "image": "https://imageio.forbes.com/specials-images/imageserve/5f5be112e7f395dc08ef8e58/Lionel-Messi-celebrating-scoring-a-goal-in-the-2019-20-UEFA-Champions-League/1960x0.jpg?format=jpg&width=960"
+  },
+  {
+    "id": 10,
+    "name": "Luka Modrić",
+    "team": "Real Madrid",
+    "position": "Midfielder",
+    "price": 20000000,
+    "image": "https://imageio.forbes.com/specials-images/imageserve/5f5be112e7f395dc08ef8e58/Lionel-Messi-celebrating-scoring-a-goal-in-the-2019-20-UEFA-Champions-League/1960x0.jpg?format=jpg&width=960"
+  }
+]
